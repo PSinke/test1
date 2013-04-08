@@ -1,0 +1,24 @@
+﻿body {
+	font: 1em/1.5em 'Verdana', 'Arial', sans-serif;
+	background-color: #93d1ff;
+	margin:0;
+	padding:0;
+}
+.mainwrap {
+	position:relative;
+	margin:0 auto;
+	width:1060px;
+}
+.holder {
+	height:1000px;
+	width:1060px;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.box1 {
+	position:absolute;
+	left:30%;
+	top:100px;
+}
+
